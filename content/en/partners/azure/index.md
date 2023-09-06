@@ -9,4 +9,11 @@ resources:
 - name: "logo"
   src: "azure.png"
 ---
-description of azure
+
+![azure.png](logo)
+
+The Azure cloud platform is more than 200 products and cloud services designed to help you bring new solutions to life—to solve today's challenges and create the future. Build, run, and manage applications across multiple clouds, on-premises, and at the edge, with the tools and frameworks of your choice.
+
+Need Help?
+
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df290f5892d944_full_logo_black_RGB.svg" width="200">

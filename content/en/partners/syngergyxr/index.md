@@ -8,5 +8,14 @@ images: []
 resources:
 - name: "logo"
   src: "synergyxr.png"
+- name: "logo-banner"
+  src: "synergyxr-banner.png"
 ---
-description of partner
+
+![synergyxr.png](logo-banner)
+
+SynergyXR is at the forefront of extended reality (XR) solutions, driving innovation in both augmented and virtual reality. With deep-rooted expertise in the manufacturing and energy sectors, we're dedicated to revolutionizing the way businesses approach technical training, remote support, and onboarding. By prioritizing user-centric designs, we're ensuring that XR technologies, including Virtual Reality (VR) and Augmented Reality (AR), become an integral part of today's business landscape.
+
+Need Help?
+
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df290f5892d944_full_logo_black_RGB.svg" width="200">
