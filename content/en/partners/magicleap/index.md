@@ -12,7 +12,13 @@ resources:
 
 ![magicleap.png](logo)
 
-Magic Leap, Inc. is an American technology company that creates innovative solutions for complex problems with the most immersive enterprise AR devices. Regardless of your industry, the enhanced ergonomic design and engineering make Magic Leap headsets are suitable for your use case.
+Magic Leap creates innovative solutions for complex problems using the most immersive enterprise AR devices. Regardless of your industry, the enhanced ergonomic design and engineering make Magic Leap headsets suitable for your use case.
+
+**Resources:**
+
+- [Magic Leap Dev Portal](https://ml2-developer.magicleap.com/)
+- [Get started w/ Unity](https://developer-docs.magicleap.cloud/docs/guides/unity/getting-started/unity-getting-started)
+- [Get started w/ Unreal](https://developer-docs.magicleap.cloud/docs/guides/unreal/unreal-getting-started)
 
 Need Help?
 
