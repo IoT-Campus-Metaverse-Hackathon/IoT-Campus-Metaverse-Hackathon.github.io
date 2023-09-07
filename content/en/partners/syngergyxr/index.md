@@ -20,6 +20,15 @@ SynergyXR is at the forefront of extended reality (XR) solutions, driving innova
 
 - [Using SynergyXR](https://knowledge.synergyxr.com/using-synergyxr)
 - [SynergyXR YouTube Channel](https://www.youtube.com/@SynergyXR)
+- [Intro to SynergyXR 2.4](https://vimeo.com/826861075)
+- [Onboarding new employees with SynergyXR](https://vimeo.com/754617517)
+- [Intro to Virtual Showroom](https://vimeo.com/754617355)
+- [Redefining collaboration in virtual reality](https://synergyxr.twentythree.com/redefining-collaboration-in-virtual)
+- [Remote collaboration and work instructions with iOS](https://vimeo.com/805828701)
+- [VR Training in SynergyXR](https://synergyxr.twentythree.com/vr-training-in-synergyxr)
+- [Beyond Reality: Transformative 3D Scanning & Reality Capture (Webinar)](https://www.youtube.com/watch?v=7PIofyUpub0)
+- [The easiest way to build your own virtual showroom (webinar)](https://www.youtube.com/watch?v=BJpBNt6jazo)
+- [How to upload and manage content (Introducing the all-new Web Manager)](https://www.youtube.com/watch?v=M0bFi2ua0E8)
 
 Need Help?
 
