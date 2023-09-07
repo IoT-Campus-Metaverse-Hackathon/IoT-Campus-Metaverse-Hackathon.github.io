@@ -1,5 +1,5 @@
 ---
-title: "Software"
+title: "Hack and House Rules"
 description: ""
 date: 2023-08-23T13:52:17+02:00
 lastmod: 2023-08-23T13:52:17+02:00
@@ -9,45 +9,16 @@ resources:
 - name: "image"
   src: "banner.jpg"
 ---
-Here are some AI technologies and frameworks that can be valuable to start with, depending on your use case:
+Here you find general information about the hack itself and also some basic rules
 
-## Natural Language Processing (NLP)
-- spaCy [https://spacy.io/](https://spacy.io/) -  A library for natural language processing with efficient tokenization, parsing, and named entity recognition.
-- nltk [https://www.nltk.org/](https://www.nltk.org/) - NLTK is a leading platform for building Python programs to work with human language data - 
-- Azure KI Language [https://learn.microsoft.com/de-de/azure/ai-services/language-service/](https://learn.microsoft.com/de-de/azure/ai-services/language-service/) - NLP library from Azure Cognitive Services
-- Scikit-learn - [https://scikit-learn.org/](https://scikit-learn.org/)
-  
-## Computer Vision
-- OpenCV [https://opencv.org/](https://opencv.org/) - Open-source computer vision library with a wide range of image and video processing capabilities.
-- Azure Cognitive Services - Custom Vision [https://azure.microsoft.com/de-de/products/cognitive-services/custom-vision-service](https://azure.microsoft.com/de-de/products/cognitive-services/custom-vision-service)
-- Scikit Image: [https://scikit-image.org/](https://scikit-image.org/) - A collection of algorithms for image processing
+## Preparation for the final pitch
 
-## Gesture and Pose Recognition
-- MediaPipe [https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer) - Google's library for real-time hand, face, and body pose estimation.
-- OpenPose[https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/md_doc_00_index.html](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/md_doc_00_index.html) - A real-time multi-person keypoint detection library.
-
-## Generative AI
-- OpenAI GPT-3.5/4 - A language model that can generate human-like text based on prompts.
-- Meta Llama 2 [https://github.com/facebookresearch/llama/blob/main/README.md](https://github.com/facebookresearch/llama/blob/main/README.md) - A language model that can generate human-like text based on prompts.
-- Langchain [https://www.langchain.com](https://www.langchain.com) - LangChain’s flexible abstractions and extensive toolkit enable developers to harness the power of LLMs.
-- StyleGAN and StyleGAN2 - Frameworks for generating realistic images and videos using generative adversarial networks.
-
-## Reinforcement Learning (RL)
-- OpenAI Gym: A toolkit for developing and comparing RL algorithms in various environments.
-- Stable Baselines: A set of high-quality implementations of RL algorithms.
-
-## Voice and Speech Recognition
-- Google Cloud Speech-to-Text [https://cloud.google.com/speech-to-text?hl=de](https://cloud.google.com/speech-to-text?hl=de) - Converts spoken language into text for processing.
-- Azure Cognitive Services [https://surpriselib.com/](https://surpriselib.com/)  / Speech-to-text, Text-to-Speech 
-
-## Recommendation Systems
-- LightFM [https://github.com/lyst/lightfm](https://github.com/lyst/lightfm) - A hybrid recommendation library for combining collaborative and content-based filtering.
-- Surprise [https://surpriselib.com/](https://surpriselib.com/) - A simple and effective library for building recommendation systems.
-
-## Virtual Agents and Chatbots
-- Microsoft Bot Framework [https://dev.botframework.com/](https://dev.botframework.com/) - Develop intelligent bots for natural language understanding and interaction.
-- Langchain [https://www.langchain.com](https://www.langchain.com) - LangChain’s flexible abstractions and extensive toolkit enable developers to harness the power of LLMs.
-
-## Audio Analysis and Synthesis
-- Librosa [https://librosa.org/doc/latest/index.html](https://librosa.org/doc/latest/index.html) - Library for audio analysis, feature extraction, and music information retrieval.
-- WaveGAN [https://github.com/chrisdonahue/wavegan](https://github.com/chrisdonahue/wavegan) - Learn to synthesize raw audio with generative adversarial networks
+Yes, there is a final pitch and each hack group needs to be prepared for this.
+On **wednesday at 3:20** is the presentation of the hacking results at the atrium.
+In order to have everything prepared and together we need to have all the pitches **latest on wednesday at 11:00 am**
+A hack-ninja will come to you before 11:00 am to collect the slides, pictures, videos, ... you have and put it on a external storage. **Please make sure** that your PC containing the slides is USB enabled.
+<br><br>
+Please find [here](./Metaverse_Hackathon_Result_Presentation.pptx) a short presentation of some potential use full information of how to prepare your pitch and what to tale care of. 
+Within this presentation you will also find a template you can use for your final pitch.
+<br><br>
+**Please note:** You will have max. **3 min** to pitch. Tine will be measured and at sharp 3 min your time is over.
