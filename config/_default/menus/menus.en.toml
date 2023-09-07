@@ -1,4 +1,9 @@
 [[main]]
+  name = "Primer"
+  url = "/primer/"
+  weight = 5
+
+[[main]]
   name = "Inspire"
   url = "/inspire/"
   weight = 10
@@ -18,6 +23,11 @@
   name = "Event Agenda"
   weight = 40
   url = "/agenda"
+
+[[main]]
+  name = "Hack and House Rules"
+  url = "/rules/"
+  weight = 45
 
 [[main]]
   name = "Get Help"

@@ -36,7 +36,8 @@ resources:
           <li><a href="https://www.youtube.com/c/NVIDIAOmniverse" target="_blank">NVIDIA Omniverse Youtube Channel</a></li>
         </ul>
       </p>
-      <br />      
+      {{< youtube dvdB-ndYJBM >}}
+      <br /> 
       <p class="-size-m" style="margin:0">
         <b>Need Help?</b>
         <br />
