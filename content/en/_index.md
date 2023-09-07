@@ -29,4 +29,7 @@ Get ready to ignite your creativity, unleash your coding skills, and collaborate
   {{< profile name="Get Help" >}}
     Need help with anything?
   {{</ profile >}}
+  {{< profile name="Hack & House Rules" >}}
+    Our hack- and house rules
+  {{</ profile >}}
 {{</ columns >}}
