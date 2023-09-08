@@ -1,5 +1,6 @@
 ---
 title: "Logitech G29"
+summary: "#racing #wheel"
 description: ""
 date: 2023-08-23T13:52:17+02:00
 lastmod: 2023-08-23T13:52:17+02:00
@@ -21,8 +22,6 @@ Minimum system requirements:
 - 150 MB of available hard disk space
 - USB port
 - Games that support Logitech® force feedback racing wheel
-
-<br>
 
 {{< button url="https://www.logitechg.com/en-us/innovation/developer-lab.html" name="Developer Lab" >}}
 {{< button url="https://readyvrone.com/hardware/best-vr-steering-wheels-guide/" name="VR Steering Guide" >}}

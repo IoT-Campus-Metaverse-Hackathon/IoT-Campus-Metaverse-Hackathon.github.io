@@ -1,5 +1,6 @@
 ---
 title: "T.Flight HOTAS"
+summary: "#joystick #simulator"
 description: ""
 date: 2023-08-23T13:52:17+02:00
 lastmod: 2023-08-23T13:52:17+02:00
@@ -22,8 +23,6 @@ The T.Flight HOTAS is a high-precision joystick and a throttle set is intended f
 Minimum system requirements:
 
 - Windows 10, 11
-
-<br>
 
 {{< button url="https://www.thrustmaster.com/en-gb/products/t-flight-hotas-x/" name="Product Description" >}}
 {{< button url="https://support.thrustmaster.com/en/product/t-flight-hotas-one-en/" name="Product Description 2" >}}
