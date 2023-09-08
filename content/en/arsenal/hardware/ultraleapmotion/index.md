@@ -18,5 +18,7 @@ Minimum system requirements (desktop):
 - 2 GB RAM; USB 2.0 port.
 - VR headsets may come with their own system requirements.
 
+<br>
+
 {{< button url="https://www.ultraleap.com/datasheets/Leap_Motion_Controller_Datasheet.pdf" name="Data Sheet" >}}
 {{< button url="https://www.ultraleap.com/developers/" name="Developer Portal" >}}
