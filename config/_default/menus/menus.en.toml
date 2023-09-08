@@ -30,6 +30,11 @@
   weight = 45
 
 [[main]]
+  name = "Area Map"
+  url = "/area/"
+  weight = 45
+
+[[main]]
   name = "Get Help"
   weight = 50
   url = "/help/"

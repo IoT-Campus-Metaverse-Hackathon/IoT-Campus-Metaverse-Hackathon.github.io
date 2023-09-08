@@ -8,12 +8,6 @@ images: []
 resources:
 - name: "image"
   src: "banner.jpg"
-- name: "floor1"
-  src: "floor1.png"
-- name: "floor2"
-  src: "floor2.png"
-- name: "floor3"
-  src: "floor3.png"
 ---
 Here you find general information about the hack itself and also some basic rules
 
@@ -42,19 +36,3 @@ Within this presentation you will also find a template you can use for your fina
 <div style="border:1px solid green; padding: 10px; background-color: #e6ffe6;">
 If you have any question, please contact your hack coaches or the hack-ninjas
 </div>
-
-## Event Area
-
-Please see in the following the individual floor plans for the event
-
-**Floor 1**
-
-![First Floor](floor1)
-
-**Floor 2**
-
-![Second Floor](floor2)
-
-**Floor 3**
-
-![Third Floor](floor3)
