@@ -1,5 +1,5 @@
 ---
-title: "Vive Pro 2"
+title: "HTC Vive Pro 2"
 summary: "#vr #htc"
 description: ""
 date: 2023-08-23T13:52:17+02:00
