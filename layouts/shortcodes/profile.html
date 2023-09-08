@@ -9,6 +9,11 @@
       </div>
     </figure>
     {{ end }}
+
+  {{ with .Get "url" }}
+  <a href="{{ . }}">
+  {{ end }}
+
     <div class="a-text" style="padding:2rem">
       {{ with .Get "category" }}
       <span class="-size-s" style="display:block;margin-bottom:0.5rem">
@@ -20,6 +25,10 @@
         {{ . }}
       </h3>
       {{ end }}
-      <p class="-size-m" style="margin:0">{{ .Inner }}</p>
+      <p class="-size-m" style="margin:0">{{ $.Inner }}</p>
     </div>
+
+  {{ if .Get "url" }}
+  </a>
+  {{ end }}
 </div>
