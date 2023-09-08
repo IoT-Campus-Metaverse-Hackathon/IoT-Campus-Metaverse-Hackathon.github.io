@@ -24,8 +24,6 @@ Minimum system requirements:
 
 - Windows 10, 11
 
-<br>
-
 {{< button url="https://www.thrustmaster.com/en-gb/products/t-flight-hotas-x/" name="Product Description" >}}
 {{< button url="https://support.thrustmaster.com/en/product/t-flight-hotas-one-en/" name="Product Description 2" >}}
 {{< button url="https://ts.thrustmaster.com/download/pub/webupdate/TFlightHotas/2022_TFHT_1.exe" name="Drivers" >}}

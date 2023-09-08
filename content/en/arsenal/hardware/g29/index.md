@@ -23,7 +23,5 @@ Minimum system requirements:
 - USB port
 - Games that support Logitech® force feedback racing wheel
 
-<br>
-
 {{< button url="https://www.logitechg.com/en-us/innovation/developer-lab.html" name="Developer Lab" >}}
 {{< button url="https://readyvrone.com/hardware/best-vr-steering-wheels-guide/" name="VR Steering Guide" >}}

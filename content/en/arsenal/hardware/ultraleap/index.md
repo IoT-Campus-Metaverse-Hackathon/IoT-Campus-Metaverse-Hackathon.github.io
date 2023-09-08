@@ -20,7 +20,5 @@ Minimum system requirements:
 - 2GB RAM, USB 2.0. BrightSign XT1144, mains power
 - USB 2.0 Additional platforms
 
-<br>
-
 {{< button url="https://www.ultraleap.com/datasheets/ultraleap-3di-datasheet.pdf" name="Data Sheet" >}}
 {{< button url="https://www.ultraleap.com/developers/" name="Developer Portal" >}}
