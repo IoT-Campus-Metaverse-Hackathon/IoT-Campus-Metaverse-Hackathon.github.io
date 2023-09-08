@@ -1,0 +1,60 @@
+---
+title: "Hack and House Rules"
+description: ""
+date: 2023-08-23T13:52:17+02:00
+lastmod: 2023-08-23T13:52:17+02:00
+draft: false
+images: []
+resources:
+- name: "image"
+  src: "banner.jpg"
+- name: "floor1"
+  src: "floor1.png"
+- name: "floor2"
+  src: "floor2.png"
+- name: "floor3"
+  src: "floor3.png"
+---
+Here you find general information about the hack itself and also some basic rules
+
+## Preparation for the final pitch
+
+Yes, there is a final pitch and each hack group needs to be prepared for this.
+On **wednesday at 3:20** is the presentation of the hacking results at the atrium.
+In order to have everything prepared and together we need to have all the pitches **latest on wednesday at 11:00 am**
+A hack-ninja will come to you before 11:00 am to collect the slides, pictures, videos, ... you have and will put it on an external storage. **Please make sure** that your PC containing the slides is USB enabled.
+<br><br>
+Please find [here](./Metaverse_Hackathon_Result_Presentation.pptx) a short presentation of some potential use full information of how to prepare your pitch and what to tale care of. 
+Within this presentation you will also find a template you can use for your final pitch.
+<br><br>
+**Please note:** You will have max. **3 min** to pitch. Tine will be measured and at sharp 3 min your time is over.
+
+## House & Hack Rules 
+
+* You need to put on the visitor badge at all times
+* Please keep within the area you are allowed
+* Keep clean and return bottles and cups after use. Reuse cups to keep things sustainable.
+* Campus closes at 10pm, so finish hack and start out by 9.30pm eahc day
+* feel free to stay for 13th during networking day
+* do not bring any library hardware out of campus location.
+* after 6pm, if you exit the campus, the door won't open so you need to reach out to someone inside the campus to let you in
+
+<div style="border:1px solid green; padding: 10px; background-color: #e6ffe6;">
+If you have any question, please contact your hack coaches or the hack-ninjas
+</div>
+
+## Event Area
+
+Please see in the following the individual floor plans for the event
+
+**Floor 1**
+
+![First Floor](floor1)
+
+**Floor 2**
+
+![Second Floor](floor2)
+
+**Floor 3**
+
+![Third Floor](floor3)
