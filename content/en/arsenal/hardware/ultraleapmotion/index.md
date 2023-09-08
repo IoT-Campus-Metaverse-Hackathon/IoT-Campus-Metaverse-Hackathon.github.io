@@ -8,7 +8,7 @@ images: []
 type: "hardware"
 resources:
 - name: "image"
-  src: "motion-leap.png"
+  src: "motion-leap.jpg"
 ---
 The Leap Motion Controller from Ultraleap is an optical hand tracking module that captures the movement ofusers’ hands and fingers so they can interact naturally with digital content. Small, fast, and accurate, the LeapMotion Controller can be used for productivity applications with Windows computers, integrated into enterprisegrade hardware solutions or displays, or attached to virtual/augmented reality headsets for AR/VR/XR prototyping,research, and development.
 Minimum system requirements (desktop):

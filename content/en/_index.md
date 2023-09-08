@@ -20,16 +20,16 @@ Get ready to ignite your creativity, unleash your coding skills, and collaborate
   {{< profile name="Partners" url="/partners" >}}
     We've invited some friends over and they brought along some cool technology
   {{</ profile >}}
-  {{< profile name="Hack Arsenal" url="/" >}}
+  {{< profile name="Hack Arsenal" url="/arsenal/hardware" >}}
     Our library of cool hardware and software available to you
   {{</ profile >}}
-  {{< profile name="Agenda" url="/arsenal/hardware" >}}
+  {{< profile name="Agenda" url="/agenda" >}}
     The Low-down over the next 3 days
   {{</ profile >}}
-  {{< profile name="Get Help" url="/agenda" >}}
+  {{< profile name="Get Help" url="/help" >}}
     Need help with anything?
   {{</ profile >}}
-  {{< profile name="Hack & House Rules" url="/help" >}}
+  {{< profile name="Hack & House Rules" url="/rules" >}}
     Our hack- and house rules
   {{</ profile >}}
 {{</ columns >}}
