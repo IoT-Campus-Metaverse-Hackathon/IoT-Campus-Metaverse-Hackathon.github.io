@@ -1,5 +1,6 @@
 ---
 title: "Logitech G29"
+summary: "#racing #wheel"
 description: ""
 date: 2023-08-23T13:52:17+02:00
 lastmod: 2023-08-23T13:52:17+02:00

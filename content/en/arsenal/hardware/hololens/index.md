@@ -1,5 +1,6 @@
 ---
 title: "Microsoft Hololens 2"
+summary: "#ar #microsoft #hmd"
 description: ""
 date: 2023-08-23T13:52:17+02:00
 lastmod: 2023-08-23T13:52:17+02:00
