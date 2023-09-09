@@ -53,7 +53,7 @@ Hack Coaches are your domain experts in your tracks. Contact them if you need do
   {{</profile >}}
   {{< profile picture="Placeholder.png" name="Emre Kesici" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
-  {{< profile picture="Placeholder.png" name="Gunnar Beister" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="Gunnar2.png" name="Gunnar Beister" category="#AI, #Architecture, #NodeJS, #Azure, #Azure Devops, #IoT" >}}
   {{</profile >}}
   {{< profile picture="Placeholder.png" name="Rahul Lao" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
