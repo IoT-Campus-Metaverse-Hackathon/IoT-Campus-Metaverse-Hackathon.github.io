@@ -24,7 +24,7 @@ hackers.
 ## Hack Coaches
 Hack Coaches are your domain experts in your tracks. Contact them if you need domain expertise.
 
-{{< columns >}}
+{{< columns amount="3" >}}
   {{< profile picture="" name="Alexander von Gaisberg-Helfenberg" >}}
     Hack Track: Retail
   {{</profile >}}
@@ -40,7 +40,7 @@ Hack Coaches are your domain experts in your tracks. Contact them if you need do
 
 ## Hack Ninjas
 
-{{< columns >}}
+{{< columns amount="3" >}}
   {{< profile picture="" name="Yousof Alsatom" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
   {{< profile picture="" name="Zubair Mohammad" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
