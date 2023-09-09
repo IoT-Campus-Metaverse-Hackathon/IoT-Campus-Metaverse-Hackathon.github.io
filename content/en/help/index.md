@@ -25,42 +25,40 @@ hackers.
 Hack Coaches are your domain experts in your tracks. Contact them if you need domain expertise.
 
 {{< columns amount="3" >}}
-  {{< profile picture="" name="Alexander von Gaisberg-Helfenberg" >}}
+  {{< profile picture="Placeholder.png" name="Alexander von Gaisberg-Helfenberg" >}}
     Hack Track: Retail
   {{</profile >}}
-  {{< profile picture="" name="Christian Hergt" >}}
+  {{< profile picture="ChristianHergt.png" name="Christian Hergt" >}}
     Hack Track: Industrial Metaverse
   {{</profile >}}
-  {{< profile picture="" name="Christian Kersten" >}}
+  {{< profile picture="Placeholder.png" name="Christian Kersten" >}}
     Hack Track: Metaverse & AI
   {{</profile >}}
 {{</ columns >}}
 
-
-
 ## Hack Ninjas
 
 {{< columns amount="3" >}}
-  {{< profile picture="" name="Yousof Alsatom" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="Placeholder.png" name="Yousof Alsatom" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
-  {{< profile picture="" name="Zubair Mohammad" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="Placeholder.png" name="Zubair Mohammad" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
-  {{< profile picture="Denis_picture.jpeg" name="Denis Kramer" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="Denis.jpeg" name="Denis Kramer" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
-  {{< profile picture="" name="Pavel Simo" category="#3DDev" >}}
+  {{< profile picture="Pavel.png" name="Pavel Simo" category="#3DDev #Unity #vr" >}}
   {{</profile >}}
-  {{< profile picture="" name="Maximilian Rost" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="Placeholder.png" name="Maximilian Rost" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
-  {{< profile picture="" name="Min Park" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="Placeholder.png" name="Min Park" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
-  {{< profile picture="" name="Emre Kesici" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="Placeholder.png" name="Emre Kesici" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
-  {{< profile picture="" name="Gunnar Beister" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="Placeholder.png" name="Gunnar Beister" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
-  {{< profile picture="" name="Rahul Lao" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="Placeholder.png" name="Rahul Lao" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
   {{< profile picture="Marco.jpg" name="Marco Gora" category="#Azure #DevOps #Architecture #LLM" >}}
   {{</profile >}}
-  {{< profile picture="" name="Kim Braunholz" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="Placeholder.png" name="Kim Braunholz" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
 {{</ columns >}}
