@@ -25,13 +25,13 @@ hackers.
 Hack Coaches are your domain experts in your tracks. Contact them if you need domain expertise.
 
 {{< columns amount="3" >}}
-  {{< profile picture="Placeholder.png" name="Alexander von Gaisberg-Helfenberg" >}}
+  {{< profile picture="alexander.jpg" name="Alexander von Gaisberg-Helfenberg" >}}
     Hack Track: Retail
   {{</profile >}}
   {{< profile picture="ChristianHergt.png" name="Christian Hergt" >}}
     Hack Track: Industrial Metaverse
   {{</profile >}}
-  {{< profile picture="Placeholder.png" name="Christian Kersten" >}}
+  {{< profile picture="christiankerstan.jpg" name="Christian Kersten" >}}
     Hack Track: Metaverse & AI
   {{</profile >}}
 {{</ columns >}}
