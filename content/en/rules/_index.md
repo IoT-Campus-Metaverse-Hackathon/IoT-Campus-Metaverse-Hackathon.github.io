@@ -1,5 +1,5 @@
 ---
-title: "Hack and House Rules"
+title: ""
 description: ""
 date: 2023-08-23T13:52:17+02:00
 lastmod: 2023-08-23T13:52:17+02:00
@@ -7,7 +7,7 @@ draft: false
 images: []
 resources:
 - name: "image"
-  src: "banner.jpg"
+  src: "banner-houserules.jpg"
 ---
 Here you find general information about the hack itself and also some basic rules
 

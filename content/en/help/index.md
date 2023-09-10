@@ -1,5 +1,5 @@
 ---
-title: "Get Help"
+title: ""
 description: ""
 date: 2023-08-23T13:52:25+02:00
 lastmod: 2023-08-23T13:52:25+02:00
@@ -7,7 +7,7 @@ draft: false
 images: []
 resources:
 - name: "image"
-  src: "banner.jpg"
+  src: "banner-gethelp.jpg"
 ---
 We'd like your hackathon experience to be as smooth as possible. If you've any queries or need help, we've got you covered!
 If the pages on this site do not answer your questions, you can reach out to our hack assistants and partners on site.
