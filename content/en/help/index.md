@@ -47,7 +47,7 @@ Hack Coaches are your domain experts in your tracks. Contact them if you need do
   {{</profile >}}
   {{< profile picture="Pavel.png" name="Pavel Simo" category="#3DDev #Unity #vr" >}}
   {{</profile >}}
-  {{< profile picture="Placeholder.png" name="Maximilian Rost" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="Max.png" name="Maximilian Rost" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
   {{< profile picture="Placeholder.png" name="Min Park" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
