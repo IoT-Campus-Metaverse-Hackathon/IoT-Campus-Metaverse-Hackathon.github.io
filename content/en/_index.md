@@ -14,6 +14,9 @@ resources:
 Get ready to ignite your creativity, unleash your coding skills, and collaborate with fellow innovators for an unforgettable hacking experience. We are thrilled to have you join us for this exciting journey into the world of the Metaverse and AI.
 
 {{< columns amount="5" >}}
+  {{< profile name="Overview" url="/Metaverse_Hackathon_Housekeeping_Slides.pdf" >}}
+    Our hackathon tracks and coaches
+  {{</ profile >}}
   {{< profile name="Get Inspired" url="/inspire" >}}
     What's Metaverse and AI? Need some ideas and inspiration?
   {{</ profile >}}
