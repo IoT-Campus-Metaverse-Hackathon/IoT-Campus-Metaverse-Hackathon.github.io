@@ -1,7 +1,7 @@
-[[main]]
-  name = "Primer"
-  url = "/primer/"
-  weight = 5
+#[[main]]
+#  name = "Primer"
+#  url = "/primer/"
+#  weight = 5
 
 [[main]]
   name = "Inspire"
