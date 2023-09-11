@@ -16,5 +16,5 @@ type: docs
 toc: true
 resources:
 - name: "image"
-  src: "eyetracking.png"
+  src: "multi_user.jpg"
 ---
