@@ -33,6 +33,6 @@ Get ready to ignite your creativity, unleash your coding skills, and collaborate
     Our hack- and house rules
   {{</ profile >}}
   {{< profile name="Area Map" url="/area" >}}
-    Overview of the hack area
+    Overview of the campus area
   {{</ profile >}}
 {{</ columns >}}
