@@ -16,7 +16,8 @@ At a substantial 10.24 inches, the wheel, wrapped in genuine hand-stitched leath
 Its impressive 900° rotation capability, coupled with the dual-motor force feedback, simulates an incredibly authentic driving sensation.
 The inclusion of a robust 3-pedal set - throttle, brake, and clutch - replicates the nuanced feel of operating a real vehicle, from revving up the engine to shifting through the gears.
 
-Minimum system requirements:
+
+**Minimum system requirements**
 
 - PlayStation®5 / PlayStation®4 / PlayStation®3 and games that support Logitech® force feedback racing wheel OR Windows® 10, Windows® 8, 8.1, or Windows® 7
 - 150 MB of available hard disk space

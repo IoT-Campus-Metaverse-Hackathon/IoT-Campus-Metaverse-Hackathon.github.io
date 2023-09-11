@@ -19,6 +19,6 @@ links:
 The VIVE Tracker bridges the gap between the tangible world and immersive virtual environments, offering users an unparalleled experience. Precision is at the heart of this device, capturing intricate full-body movements with utmost accuracy. Designed for smooth integration of external devices, it amplifies the potential of virtual reality interactions.
 With a design that's now more compact, lightweight, and enduring, this latest iteration stands testament to VIVE's continuous commitment to pioneering VR advancements.
 
-Minimum system requirements:
+**Minimum system requirements**
 
 - USB 2.0 full speed (client) from USB Type-C connector.

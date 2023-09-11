@@ -12,7 +12,17 @@ resources:
   src: "card.jpg"
 ---
 Ultraleap 3Di Stereo Hand Tracking Camera is designed to be connected to any screen or kiosk. Together with Ultraleap's world-leading software, the device transforms displays into touchless, three-dimensional, immersive surfaces.
-Minimum system requirements:
+
+
+**Quick start**
+
+- Install [Ultraleap Tracking Desktop App](https://developer.leapmotion.com/tracking-software-download)
+- Install [Unity](https://unity.com/download)
+- Install [Ultraleap SDK](https://www.ultraleap.com/developers/)
+- Start with an example: [XR-Examples](https://docs.ultraleap.com/unity-api/The-Examples/XR/index.html)
+- Start Hacking
+
+**Minimum system requirements**
 
 - Windows (R) 10, 64-bit
 - Intel (R) i3 processor

@@ -34,25 +34,25 @@ NVIDIA Omniverse™ is an extensible platform for virtual collaboration and real
 
 **Quick start**
 
-Step 1: [Download and install the Omniverse Launcher](https://labopeninghackathonfiles.blob.core.windows.net/industrial-metaverse/omniverse-launcher-win.exe?sp=r&st=2023-09-08T14:38:10Z&se=2023-09-08T22:38:10Z&spr=https&sv=2022-11-02&sr=b&sig=o2%2Fng664XVZr94LW7oCU2IPBysJi%2F5DttEkDhS8V8r8%3D)
+- [Download and install the Omniverse Launcher](https://labopeninghackathonfiles.blob.core.windows.net/industrial-metaverse/omniverse-launcher-win.exe?sp=r&st=2023-09-08T14:38:10Z&se=2023-09-08T22:38:10Z&spr=https&sv=2022-11-02&sr=b&sig=o2%2Fng664XVZr94LW7oCU2IPBysJi%2F5DttEkDhS8V8r8%3D)
 
-Step 2: Click "Connect to a Server"
+- Click "Connect to a Server"
 
 ![nucleus-1.png](nucleus-1)
 
-Step 3: Connect to our Nucleus Node: 98.71.198.125
+- Connect to our Nucleus Node: 98.71.198.125
 
 ![nucleus-2.png](nucleus-2)
 
-Step 4: Click "Create Account"
+- Click "Create Account"
 
 ![nucleus-3.png](nucleus-3)
 
-Step 5: Create an account and then login
+- Create an account and then login
 
 ![nucleus-4.png](nucleus-4)
 
-Step 6: Start hacking with one or more extensions available
+- Start hacking with one or more extensions available
 
 Need Help?
 

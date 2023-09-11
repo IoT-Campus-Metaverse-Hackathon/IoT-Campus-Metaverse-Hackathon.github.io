@@ -13,7 +13,15 @@ resources:
 ---
 The Leap Motion Controller from Ultraleap is an optical hand tracking module that captures the movement of users’ hands and fingers so they can interact naturally with digital content. Small, fast, and accurate, the LeapMotion Controller can be used for productivity applications with Windows computers, integrated into enterprise grade hardware solutions or displays, or attached to virtual/augmented reality headsets for AR/VR/XR prototyping, research, and development.
 
-Minimum system requirements (desktop):
+**Quick start**
+
+- Install [Ultraleap Tracking Desktop App](https://developer.leapmotion.com/tracking-software-download)
+- Install [Unity](https://unity.com/download)
+- Install [Ultraleap SDK](https://www.ultraleap.com/developers/)
+- Start with an example: [XR-Examples](https://docs.ultraleap.com/unity-api/The-Examples/XR/index.html)
+- Start Hacking
+
+**Minimum system requirements**
 
 - Windows 7+ or Mac OS X 10.7 (note that OSX is no longer formally supported);
 - AMD Phenom II or Intel® Core™ i3/i5/i7 processor

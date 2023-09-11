@@ -13,6 +13,14 @@ resources:
 ---
 Released in October 2020, the Meta Quest 2 by Meta is a popular VR headset that has sold more than the Xbox Series S/X. With a good price and modern features, it's 20% lighter and 15% smaller than the one before it. Plus, it has a faster screen update at 120 Hz, which is a big step up from the old Quest's 72 Hz.
 
+**Quick start**
+
+- Install [Unity](https://unity.com/download)
+- Install [Oculus Hub](https://www.meta.com/de/en/quest/setup/?utm_source=www.meta.com&utm_medium=dollyredirect)
+- Connect Headset to your PC (either via AirLink or Cable Link)
+- Start with an example: [XR-Interaction-Toolkit-Examples](https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples)
+- Start Hacking!
+
 {{< button url="https://developer.oculus.com/" name="Meta Dev Portal" >}}
 {{< button url="https://developer.oculus.com/documentation/unreal/unreal-quick-start-guide-quest/" name="Get Started w/ Unreal" >}}
 {{< button url="https://developer.oculus.com/documentation/unity/unity-gs-overview/" name="Get Started w/ Unity" >}}
