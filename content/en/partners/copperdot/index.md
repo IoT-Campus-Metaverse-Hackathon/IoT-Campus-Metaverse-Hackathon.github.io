@@ -7,9 +7,9 @@ draft: false
 images: []
 resources:
 - name: "logo"
-  src: "siemens.png"
+  src: "copperdot.png"
 - name: "logo-banner"
-  src: "siemens-banner.png"
+  src: "copperdot_banner.png"
 ---
 
 ![siemens.png](logo-banner)
