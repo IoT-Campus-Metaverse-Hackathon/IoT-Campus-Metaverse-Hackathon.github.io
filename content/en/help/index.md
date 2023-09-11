@@ -39,9 +39,9 @@ Hack Coaches are your domain experts in your tracks. Contact them if you need do
 ## Hack Ninjas
 
 {{< columns amount="3" >}}
-  {{< profile picture="Placeholder.png" name="Yousof Alsatom" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="yousof.jpg" name="Yousof Alsatom" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
-  {{< profile picture="Placeholder.png" name="Zubair Mohammad" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="zubair.jpg" name="Zubair Mohammad" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
   {{< profile picture="Denis.jpeg" name="Denis Kramer" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
@@ -49,16 +49,20 @@ Hack Coaches are your domain experts in your tracks. Contact them if you need do
   {{</profile >}}
   {{< profile picture="Max.png" name="Maximilian Rost" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
-  {{< profile picture="Placeholder.png" name="Min Park" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="min.png" name="Min Park" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
-  {{< profile picture="Placeholder.png" name="Emre Kesici" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="emre.png" name="Emre Kesici" category="#Azure ML, #Azure Devops" >}}
   {{</profile >}}
   {{< profile picture="Gunnar2.png" name="Gunnar Beister" category="#AI, #Architecture, #NodeJS, #Azure, #Azure Devops, #IoT" >}}
   {{</profile >}}
-  {{< profile picture="Placeholder.png" name="Rahul Lao" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="rahul.png" name="Rahul Lao" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
   {{< profile picture="Marco.jpg" name="Marco Gora" category="#Azure #DevOps #Architecture #LLM" >}}
   {{</profile >}}
-  {{< profile picture="Placeholder.png" name="Kim Braunholz" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="kim.png" name="Kim Braunholz" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{</profile >}}
+  {{< profile picture="marcel.png" name="Marcel Mischke" category="#Networking, #Infrastructure">}}
+  {{</profile >}}
+  {{< profile picture="Lenny.png" name="Lenny Rook" category="#Prototyping">}}
   {{</profile >}}
 {{</ columns >}}
