@@ -32,4 +32,4 @@ SynergyXR is at the forefront of extended reality (XR) solutions, driving innova
 
 Need Help?
 
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df290f5892d944_full_logo_black_RGB.svg" width="200">
+<a href="https://discord.gg/cJzJJ3m6"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df290f5892d944_full_logo_black_RGB.svg" width="200"></a>
