@@ -25,13 +25,13 @@ hackers.
 Hack Coaches are your domain experts in your tracks. Contact them if you need domain expertise.
 
 {{< columns amount="3" >}}
-  {{< profile picture="alexander.jpg" name="Alexander von Gaisberg-Helfenberg" >}}
+  {{< profile picture="alexander.png" name="Alexander von Gaisberg-Helfenberg" >}}
     Hack Track: Retail
   {{</profile >}}
   {{< profile picture="ChristianHergt.png" name="Christian Hergt" >}}
     Hack Track: Industrial Metaverse
   {{</profile >}}
-  {{< profile picture="christiankerstan.jpg" name="Christian Kersten" >}}
+  {{< profile picture="christian.png" name="Christian Kersten" >}}
     Hack Track: Metaverse & AI
   {{</profile >}}
 {{</ columns >}}
@@ -39,7 +39,7 @@ Hack Coaches are your domain experts in your tracks. Contact them if you need do
 ## Hack Ninjas
 
 {{< columns amount="3" >}}
-  {{< profile picture="yousof.jpg" name="Yousof Alsatom" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
+  {{< profile picture="yousof.png" name="Yousof Alsatom" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
   {{< profile picture="zubair.jpg" name="Zubair Mohammad" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
@@ -53,7 +53,7 @@ Hack Coaches are your domain experts in your tracks. Contact them if you need do
   {{</profile >}}
   {{< profile picture="emre.png" name="Emre Kesici" category="#Azure ML, #Azure Devops" >}}
   {{</profile >}}
-  {{< profile picture="Gunnar2.png" name="Gunnar Beister" category="#AI, #Architecture, #NodeJS, #Azure, #Azure Devops, #IoT" >}}
+  {{< profile picture="gunnar.png" name="Gunnar Beister" category="#AI, #Architecture, #NodeJS, #Azure, #Azure Devops, #IoT" >}}
   {{</profile >}}
   {{< profile picture="rahul.png" name="Rahul Lao" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
