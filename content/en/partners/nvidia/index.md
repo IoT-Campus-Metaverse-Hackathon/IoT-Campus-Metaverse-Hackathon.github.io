@@ -22,7 +22,7 @@ resources:
 
 NVIDIA Omniverse™ is an extensible platform for virtual collaboration and real-time, physically accurate simulation. Creators, designers, researchers, and engineers can connect tools, assets, and projects to collaborate in a shared virtual space. Developers and software providers can also build and sell Omniverse Extensions, Applications, Connectors, and Microservices on the Omniverse platform to expand its functionality.
 
-**Resources:**
+**Resources**
 
 - [NVIDIA Omniverse Overview](https://www.nvidia.com/en-us/omniverse/)
 - [Digital Twins with Omniverse Platform | NVIDIA](https://www.nvidia.com/en-us/omniverse/solutions/digital-twins/)
@@ -32,15 +32,15 @@ NVIDIA Omniverse™ is an extensible platform for virtual collaboration and real
 - [NVIDIA Omniverse Developer Resource Center](https://developer.nvidia.com/omniverse/get-started)
 - [NVIDIA Omniverse Youtube Channel](https://www.youtube.com/c/NVIDIAOmniverse)
 
-**Connect to NVIDIA Omniverse**
+**Quick start**
 
-Step 1: [Download the Omniverse Launcher](https://labopeninghackathonfiles.blob.core.windows.net/industrial-metaverse/omniverse-launcher-win.exe?sp=r&st=2023-09-08T14:38:10Z&se=2023-09-08T22:38:10Z&spr=https&sv=2022-11-02&sr=b&sig=o2%2Fng664XVZr94LW7oCU2IPBysJi%2F5DttEkDhS8V8r8%3D)
+Step 1: [Download and install the Omniverse Launcher](https://labopeninghackathonfiles.blob.core.windows.net/industrial-metaverse/omniverse-launcher-win.exe?sp=r&st=2023-09-08T14:38:10Z&se=2023-09-08T22:38:10Z&spr=https&sv=2022-11-02&sr=b&sig=o2%2Fng664XVZr94LW7oCU2IPBysJi%2F5DttEkDhS8V8r8%3D)
 
 Step 2: Click "Connect to a Server"
 
 ![nucleus-1.png](nucleus-1)
 
-Step 3: Enter the address: 98.71.198.125
+Step 3: Connect to our Nucleus Node: 98.71.198.125
 
 ![nucleus-2.png](nucleus-2)
 
@@ -51,6 +51,8 @@ Step 4: Click "Create Account"
 Step 5: Create an account and then login
 
 ![nucleus-4.png](nucleus-4)
+
+Step 6: Start hacking with one or more extensions available
 
 Need Help?
 
