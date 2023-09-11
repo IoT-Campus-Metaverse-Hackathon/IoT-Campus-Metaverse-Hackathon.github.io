@@ -32,7 +32,7 @@ Get ready to ignite your creativity, unleash your coding skills, and collaborate
   {{< profile name="Hack & House Rules" url="/rules" >}}
     Our hack- and house rules
   {{</ profile >}}
-  {{< profile name="Area Map" url="/area" >}}
+  {{< profile name="Campus Map" url="/area" >}}
     Overview of the campus area
   {{</ profile >}}
 {{</ columns >}}

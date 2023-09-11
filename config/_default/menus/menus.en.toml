@@ -30,7 +30,7 @@
   weight = 45
 
 [[main]]
-  name = "Area Map"
+  name = "Campus Map"
   url = "/area/"
   weight = 45
 
