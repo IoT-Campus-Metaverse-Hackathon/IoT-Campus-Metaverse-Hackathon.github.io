@@ -25,9 +25,9 @@ Within this presentation you will also find a template, which you can use for yo
 
 ## Main Criteria for Winning
 
-* The idea is realistic and has potential.
-* Offers a new approach to address existing challenges.
-* The manner in which the team presents their idea.
+* The idea is realistic and there is a potential for it.
+* New approach to resolve existing challenges.
+* The way the team pitches their idea.
 
 ## House & Hack Rules
 
